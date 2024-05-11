@@ -1,0 +1,4 @@
+ Somoothness  handle - locomotive js - beta
+  animation of work component - Framer Motion ,
+  jab value 25 ho 1st image dikhe
+    jab value 50 ho 2nd image dikhe
